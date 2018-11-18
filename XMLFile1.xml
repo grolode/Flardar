@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<fladar>
+  <vars>
+    <user>FLADAR</user>
+    <password enc="clear">-1</password>
+    <server></server>
+    
+  </vars>
+  
+</fladar>
+  
